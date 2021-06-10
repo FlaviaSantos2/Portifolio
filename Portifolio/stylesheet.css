@@ -1,0 +1,67 @@
+
+
+body{
+background: url("imagens/fundo.jpg") no-repeat right top;
+background-size: cover;
+font-variant: black;
+ /* Texto Responsivo */
+font-size: 62.5%;
+margin-bottom: 300px;
+
+}
+
+
+/* MEU NOME */
+#nome-id{
+    color:black;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 200px;
+}
+
+#titulos-id{
+    color:black;
+    font-size:30px;
+    margin-left: 200px;
+    font-weight: bold;
+}
+/*NOME DAS EMPRESAS*/
+#empresa-id{
+    color:black;
+    font-size:20px;
+    margin-left: 200px;
+}
+
+/* TEXTO SOBRE MIM */
+#sobre-id{
+    color:black;
+    font-size:20px;
+    margin-left: 225px;
+}
+/* HABILIDADES */
+#habilidades-id{
+    color:black;
+    font-size:20px;
+    margin-left: 225px;
+}
+
+/* CURSOS */
+#curso-id{
+    color:black;
+    margin-left: 225px;
+    font-size:20px;
+
+}
+/* EXPERIENCIA */
+#experiencia-id{
+    color:black;
+    margin-left: 225px;
+
+}
+/*TEXTO EM NEGRITO*/
+span{
+    font-weight: bold;
+    color:rgb(87, 81, 81);
+    
+}
